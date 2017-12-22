@@ -1,0 +1,18 @@
+Package: simER
+Type: Package
+Title: Simulate random, directed, homogenous networks
+Version: 0.1.0
+Author: Andrew Cowley
+Maintainer: cowleya@colorado.edu
+Description: Functions to initialize and simulate random networks, as well
+    as theoretically describe their activity distributions. The three
+    parameters of interest are: the fraction of inhibitory neurons (alpha),
+    the strength of inhibitory synapses (i_eff), and the strength of 
+    excitatory synapses (e_eff).
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: data.table,
+    stringr,
+    lubridate
