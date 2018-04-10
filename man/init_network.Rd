@@ -2,7 +2,7 @@
 % Please edit documentation in R/init_network.R
 \name{init_network}
 \alias{init_network}
-\title{Initialize a homogenous Erdos-Renyi network}
+\title{Initialize a random, homogenous network}
 \usage{
 init_network(n, p, alpha = 0.1, e_eff, i_eff, normal_weigths = F)
 }
@@ -20,5 +20,5 @@ init_network(n, p, alpha = 0.1, e_eff, i_eff, normal_weigths = F)
 \item{k}{(optional) The expected degree of the network}
 }
 \description{
-Initialize a homogenous Erdos-Renyi network
+Initialize a network
 }

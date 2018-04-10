@@ -16,5 +16,6 @@ the expected change in activity level at the next time-step
 }
 \description{
 Generate the probability distribution over active states
-based on the branching function by solving the master equation
+based on the branching function by solving the master equation. A "state"
+refers to the proportion of
 }

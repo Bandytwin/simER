@@ -8,7 +8,7 @@ initial conditions.}
 sim_network(net, t_steps = 1e+05, s_1 = 0.5, disp = T)
 }
 \arguments{
-\item{net}{the network to run the simulation on}
+\item{net}{a network (the output from init_network()) to simulate}
 
 \item{s_1}{the proporation of active nodes at time step 1}
 

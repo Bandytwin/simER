@@ -3,7 +3,7 @@ Type: Package
 Title: Simulate random, directed, homogenous networks
 Version: 0.1.0
 Author: Andrew Cowley
-Maintainer: cowleya@colorado.edu
+Maintainer: 
 Description: Functions to initialize and simulate random networks, as well
     as theoretically describe their activity distributions. The three
     parameters of interest are: the fraction of inhibitory neurons (alpha),
